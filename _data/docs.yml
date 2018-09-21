@@ -1,11 +1,19 @@
-- title: Getting Started
+- title: Getting Started in the Archive
   docs:
-  - home
-  - themes
-  - customization
+  - mod1
+  - mod2
+  - mod3
+  - mod4
+  - mod5
+  
+- title: Creating your article
+  docs:
+  - mod6
+  - mod7
+  - mod8
+  - mod9
 
-- title: Examples
+- title: Tips
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - formatting
+- cache
