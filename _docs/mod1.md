@@ -1,5 +1,5 @@
 ---
-title: "Module 1: . . . . ."
+title: "What is the Dunitz Archive?"
 permalink: /docs/mod1/
 ---
 
