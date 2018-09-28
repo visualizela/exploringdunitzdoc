@@ -1,6 +1,6 @@
 ---
 title: "Using the Archive"
-permalink: /docs/mod1/
+permalink: /docs/mod2/
 ---
  
 
