@@ -1,17 +1,16 @@
-- title: Getting Started in the Archive
+- title: Getting Started with the Dunitz Archive
   docs:
   - mod1
   - mod2
   - mod3
   - mod4
-  - mod5
   
-- title: Creating your article
+- title: Creating your article in Github
   docs:
+  - mod5
   - mod6
   - mod7
   - mod8
-  - mod9
 
 - title: Tips
   docs:
