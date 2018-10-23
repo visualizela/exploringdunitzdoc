@@ -6,4 +6,4 @@ redirect_from: /docs/index.html
 
 ## Getting started
 
-Welcome to writing 150 sustainability and the Dunitz archive. More more more...
+Welcome to writing 150 sustainability track and the Robin Dunitz archive. This guides outlines working in the archive and how to use GitHub.
