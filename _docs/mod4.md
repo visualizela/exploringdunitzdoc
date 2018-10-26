@@ -2,7 +2,10 @@
 title: "Before Class"
 permalink: /docs/mod4/
 ---
- Create a [GitHub account](https://github.com/join).
+
+### Create a GitHub account
+
+[Go here](https://github.com/join) and create account before class.
 
 ### What is GitHub?
 
