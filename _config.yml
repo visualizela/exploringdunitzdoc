@@ -3,9 +3,9 @@ title: "Sustainability and the Environment through the Dunitz Archive"
 email: arutkows@usc.edu
 description: >
   Writing 150 with the Dunitz Archive assignment modules for the class.
-baseurl: "/exploringdunitzdoc" # the subpath of your site, e.g. /blog/
+baseurl: "/exploringdunitzdoc/home" # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-git_address: https://github.com/visualizela/exploringdunitzdoc/
+git_address: https://github.com/visualizela/exploringdunitzdoc/home
 git_edit_address: https://github.com/visualizela/exploringdunitzdoc/blob/gh-pages
 
 # theme options from https://bootswatch.com/
