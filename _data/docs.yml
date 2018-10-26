@@ -3,16 +3,12 @@
   - mod1
   - mod2
   - mod3
-  
-  
+
 - title: Creating your article in Github
   docs:
   - mod4
-  - mod5
-  - mod6
-  - mod7
 
 - title: Tips
   docs:
   - formatting
-- cache
+  - cache
