@@ -16,7 +16,7 @@ Go to the [ExploringDunitz Repository](https://github.com/visualizela/exploringd
 
 Once you click on "Fork" you should get the message below as the repo is being forked.
 
-<img src="https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github3.gif" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github3.gif"/>
 
 
 
