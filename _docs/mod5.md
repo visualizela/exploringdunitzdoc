@@ -14,6 +14,11 @@ Go to the [ExploringDunitz Repository](https://github.com/visualizela/exploringd
 
 ![Your GitHub account at the ExploringDunitz repository](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github1.jpg){: .center-image }
 
+Once you click on "Fork" you should get the message below as the repo is being forked.
+
+<img src="https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github3.gif" width="40" height="40" />
+
+
 
 
  
