@@ -15,11 +15,11 @@ Once we you know the basics of this essay post we will publish it using your Git
 
 Follow the step by step instructions below.
 #### SECTION 1: FORKING THE REPO
-##### 1. Make sure you are logged into your GitHub account 
+##### Make sure you are logged into your GitHub account 
 &nbsp;
 ![Your GitHub account signed in](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/githubsignedin.jpg){: .center-image }
 &nbsp;
-##### 2. Fork the "exploringdunitz" repository
+##### Fork the "exploringdunitz" repository
 
 * Go to the [ExploringDunitz Repository](https://github.com/visualizela/exploringdunitz). Your screen should look like the one below, with your account name in the top right corner.
 &nbsp;
