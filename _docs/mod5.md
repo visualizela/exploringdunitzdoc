@@ -39,16 +39,13 @@ Click on "Fork" near the top right of the screen.
 * In the image below your account name should be in the place of "visualizela."
 ![Your GitHub account at the ExploringDunitz repository](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github4.jpg){: .center-image }
 &nbsp;
-
-CONGRATULATIONS!
+#### CONGRATULATIONS!
 You have forked the repository and you are now ready to work within it! The next steps will involve creating a draft essay that you will then publish so you can see what it looks like live. Then you will add images to your draft.
 &nbsp;
-
 #### SECTION 2: YOUR FIRST DRAFT
 
 You are now ready to work on your draft and learn more about what an essay post will look like. In your GitHub repository click on the folder called "posts." 
 &nbsp;
-
 ![Click on Posts](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github5.jpg){: .center-image }
 
 You should see a few posts in the folder. Click on the one titled:
@@ -80,17 +77,24 @@ To save the post click on "Committ changes" at the bottom of your screen after t
 ![Click on Posts](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github9.jpg){: .center-image }
 
 Once you have committed the changes go to the settings.
-
+&nbsp;
 ![Click on Posts](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github9.jpg){: .center-image }
-
+&nbsp;
 Scroll down till you see the section about GitHub pages. Keep refreshing your page till you see the green block of text appear that says your site is published at - - - name of your github repository - - -.
-
+&nbsp;
 ![Click on Posts](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github11.jpg){: .center-image }
-
+&nbsp;
 
 #### SECTION 4: ADDING YOUR FIRST IMAGE
-#### SECTION 5: SECOND DRAFT WITH IMAGE
- 
+Images are added to the image folder. CLick on the image folder. Once you are in the folder you can simply click and drag on the image that you want to place into the folder. Your images should be relatively small in size, nothing larger than 1MB.
+
+<img src="https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/imageuploadgithub.gif"/>
+
+Now lets go back to your post and try to publish this image to your website. You will follow the instructions in the draft post replacing the image url with the name of your image.
+
+Once you have replaced the name. Commit it and go to your website to see the imaged displayed in your post.
+
+
 
 
  
