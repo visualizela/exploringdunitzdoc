@@ -39,13 +39,16 @@ Click on "Fork" near the top right of the screen.
 * In the image below your account name should be in the place of "visualizela."
 ![Your GitHub account at the ExploringDunitz repository](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github4.jpg){: .center-image }
 &nbsp;
-#### CONGRATULATIONS!
+
+CONGRATULATIONS!
 You have forked the repository and you are now ready to work within it! The next steps will involve creating a draft essay that you will then publish so you can see what it looks like live. Then you will add images to your draft.
 &nbsp;
+
 #### SECTION 2: YOUR FIRST DRAFT
 
 You are now ready to work on your draft and learn more about what an essay post will look like. In your GitHub repository click on the folder called "posts." 
 &nbsp;
+
 ![Click on Posts](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github5.jpg){: .center-image }
 
 You should see a few posts in the folder. Click on the one titled:
