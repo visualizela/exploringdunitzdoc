@@ -55,7 +55,8 @@ You should see the published version of the post.
 
 ![Click on Posts](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github7.jpg){: .center-image }
 
-The first thing to notice is the title of the post. This needs to be UNIQUE. The file naming convention looks like this:
+The first thing to notice is the filename of the post towards the top of the screen. This needs to be UNIQUE. The file naming convention looks like this:
+
 * YEAR-MONTH-DAY-SEMESTER-YOURUNIQUEID
 
 The unique ID will be a number that each of you will be assigned during class.
