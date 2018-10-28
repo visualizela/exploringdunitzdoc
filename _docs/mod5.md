@@ -3,15 +3,26 @@ title: "Workshop 1"
 permalink: /docs/mod5/
 ---
 
-##### Overview
-You will work on a draft post within your own GitHub account. Follow the step by step instructions below.
+#### Overview
+In this workshop you will fork a repository into your GitHub account. You will then work within this repository to draft a post of your essay using a template. You learn the basics of this template:
+* where to put your name 
+* where to put the title
+* where to put latitude and longitude so your essay can be placed on the map
+* where the text of the essay goes
+* how to insert images and caption them
 
+Once we you know the basics of this essay post we will publish it using your GitHub account so you can see how it looks "live" on the web.
+
+Follow the step by step instructions below.
+#### SECTION 1: FORKING THE REPO
 ##### 1. Make sure you are logged into your GitHub account 
-
+&nbsp;
+![Your GitHub account signed in](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/githubsignedin.jpg){: .center-image }
+&nbsp;
 ##### 2. Fork the "exploringdunitz" repository
 
 * Go to the [ExploringDunitz Repository](https://github.com/visualizela/exploringdunitz). Your screen should look like the one below, with your account name in the top right corner.
-
+&nbsp;
 ![Your GitHub account at the ExploringDunitz repository](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github1.jpg){: .center-image }
 
 Click on "Fork" near the top right of the screen.
@@ -30,9 +41,11 @@ Click on "Fork" near the top right of the screen.
 
 ##### CONGRATULATIONS - You have forked the repository and you are now ready to work within it!
 
-##### 1. 
-
-
+#### SECTION 2: YOUR FIRST DRAFT
+#### SECTION 3: PUBLISH AND SEE IT LIVE!
+#### SECTION 4: ADDING YOUR FIRST IMAGE
+#### SECTION 5: SECOND DRAFT WITH IMAGE
+ 
 
 
  
