@@ -73,7 +73,7 @@ Here is what you should see initially:
 
 #### SECTION 3: PUBLISH AND SEE IT LIVE!
 
-To save the post click on "Committ changes" at the bottom of your screen after the post. 
+To save the post click on "Commit changes" at the bottom of your screen after the post. 
 
 ![Click on Posts](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github9.jpg){: .center-image }
 
