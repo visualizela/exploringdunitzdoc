@@ -1,5 +1,5 @@
 ---
-title: "Using the Archive"
+title: "How to handle archival material"
 permalink: /docs/mod2/
 ---
  
