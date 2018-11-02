@@ -1,5 +1,5 @@
 ---
-title: "Before Class"
+title: "Intro to GitHub"
 permalink: /docs/mod4/
 ---
 
