@@ -1,5 +1,5 @@
 ---
-title: "Researching beyond the Archive"
+title: "Artist and Geography files"
 permalink: /docs/mod3/
 ---
  
