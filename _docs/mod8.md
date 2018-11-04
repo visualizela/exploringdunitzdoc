@@ -9,7 +9,6 @@ Forking the Repository
 &nbsp;
 ![Your GitHub account signed in](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/githubsignedin.jpg){: .center-image }
 &nbsp;
-#### Fork the "exploringdunitz" repository
 
 ##### Go to the [ExploringDunitz Repository](https://github.com/visualizela/exploringdunitz). Your screen should look like the one below, with your account name in the top right corner.
 &nbsp;
