@@ -1,9 +1,19 @@
 ---
-title: "Working on your first draft post"
+title: "Working on your post"
 permalink: /docs/mod9/
 ---
 
-##### You are now ready to work on your draft and learn more about what an essay post will look like. In your GitHub repository click on the folder called "posts." 
+##### You are now ready to work on your post. 
+
+##### FIRST - A post is made up of two areas, the first part is a section that begins with three dashes and ends with three dashes. It is called the front matter of the post. This is where you will edit and put your name, the title, etc. of the post.
+
+<script src="https://gist.github.com/andyrutkowski/92a02fb7d258be06afa99ced09fd1f64.js"></script>
+
+##### The part after the front matter is the rest of the post. This will be the text of the post.
+
+<script src="https://gist.github.com/andyrutkowski/25d7a1b093844d5c39f081c261791cbc.js"></script>
+
+##### In your GitHub repository click on the folder called "posts." 
 &nbsp;
 ![Click on Posts](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github5.jpg){: .center-image }
 
@@ -18,9 +28,9 @@ permalink: /docs/mod9/
 
 ##### * YEAR-MONTH-DAY-SEMESTER-YOURUNIQUEID
 
-##### The unique ID will be a number that each of you will be assigned during class.
+##### The unique ID will be your USC email handle. For example, my email is arutkows @ usc.edu so my filename would be YEAR-MONTH-DAY-SEMESTER-ARUTKOWS
 
-##### Now we are ready to edit. Click on the little pencil icon.
+##### Lets begin editing the post. Click on the little pencil icon.
 
 ![Click on Posts](https://raw.githubusercontent.com/visualizela/exploringdunitzdoc/gh-pages/img/github6.jpg){: .center-image }
 
